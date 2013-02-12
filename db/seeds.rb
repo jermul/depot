@@ -10,7 +10,7 @@ Product.create(title: 'Little Okins',
         once cracked open.
       </p>},
   image_url:   'okins.jpg',    
-  price: 36.00)
+  price: 19.95)
 # . . .  
 Product.create(title: 'CoffeeScript',
   description: 
@@ -22,7 +22,7 @@ Product.create(title: 'CoffeeScript',
 	while writing clearer, cleaner, and safer code.
       </p>},
   image_url:   'cs.jpg',    
-  price: 36.00)
+  price: 36.95)
 # . . .
 Product.create(title: 'Programming Ruby 1.9',
   description:
