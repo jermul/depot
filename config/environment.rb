@@ -12,7 +12,7 @@ config.action_mailer.delivery_method = :smtp
     port:           587,
     domain:         "domain.of.sender.net",
     authentication: "plain",
-    user_name:      "jermul714@gmail.com",
+    user_name:      "test@gmail.com",
     password:       "secret",
     enable_starttls_auto: true
   }
