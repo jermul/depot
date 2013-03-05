@@ -13,7 +13,7 @@ config.action_mailer.delivery_method = :smtp
     domain:         "domain.of.sender.net",
     authentication: "plain",
     user_name:      "jermul714@gmail.com",
-    password:       "6&ninenedlog",
+    password:       "secret",
     enable_starttls_auto: true
   }
 end
